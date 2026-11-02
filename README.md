@@ -5,4 +5,3 @@
 </p>
 <p align="center">int with me however you want i love to talk</p>
 <p align="center">im almost always sitting at spawn benches and/or with friends</p>
-<p align="center">many interests, my biggest ones are project moon + l'etranger by albert camus</p>
