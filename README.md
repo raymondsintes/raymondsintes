@@ -1,5 +1,4 @@
-**<p align="center">[ata](https://grandmagasinsisyphe.atabook.org)</p>**
-
+**<p align="center">[ata](https://grandmagasinsisyphe.atabook.org) ✦ [strawpage](https://rareslop.straw.page)</p>**
 <p align="center">
 <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/afb36bf7-9821-4582-8737-91e617fb3f90" />
 </p>
